@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @mattkage
+- 👋 Hi, I’m @huey
 - 👀 I’m interested in: web development
-- 🌱 I’m currently learning: JavaScript, react
+- 🌱 I’m currently learning: JavaScript, react and php
 - 💞️ I’m looking to collaborate on: Web development jobs
 - 📫 How to reach me: email @matthewokadinya@gmail.com
 
